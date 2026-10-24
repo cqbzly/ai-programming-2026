@@ -60,6 +60,106 @@
       "archive": "D:\\projects\\AI_Programming\\lab3\\lab3.zip",
       "archive_entry": "HW3实验报告.pdf",
       "sha256": "2618c4ceb64457bc4b720b8bbb67f32161d7d7e78dd7323661aab01f062d8420"
+    },
+    {
+      "path": "lab4/.gitignore",
+      "source_file": "D:\\projects\\ai-programming-2026\\lab4\\lab4\\.gitignore",
+      "sha256": "b71826254a51967ac16b35a8879d051684866138509670c736ffcbd56471caf5"
+    },
+    {
+      "path": "lab4/CMakeLists.txt",
+      "source_file": "D:\\projects\\ai-programming-2026\\lab4\\lab4\\CMakeLists.txt",
+      "sha256": "ab5866265ce618a601fb3540370fda1649947087a945361ed10ec05cdcced1b8"
+    },
+    {
+      "path": "lab4/lab4实验报告.docx",
+      "source_file": "D:\\projects\\ai-programming-2026\\lab4\\lab4\\lab4实验报告.docx",
+      "sha256": "31eb1765c0ec73adf94bdfb997175c1934c2b15210dc13c073d82d377e7fe598"
+    },
+    {
+      "path": "lab4/mytensor/__init__.py",
+      "source_file": "D:\\projects\\ai-programming-2026\\lab4\\lab4\\mytensor\\__init__.py",
+      "sha256": "9bf2531415a27019a9a7000c75f8c2141d89a847bb87ea57b5849f8f4b8e7769"
+    },
+    {
+      "path": "lab4/mytensor/mnist.py",
+      "source_file": "D:\\projects\\ai-programming-2026\\lab4\\lab4\\mytensor\\mnist.py",
+      "sha256": "ddcdf2cc8ca7d350e72ae9288b7b4fb480016289519ee225d60659b6f8224f67"
+    },
+    {
+      "path": "lab4/pyproject.toml",
+      "source_file": "D:\\projects\\ai-programming-2026\\lab4\\lab4\\pyproject.toml",
+      "sha256": "a9b6c9ff8ab4fc9f2b854f1360b2cc446b6e3e04d3597e3694623c5ee2f7c67a"
+    },
+    {
+      "path": "lab4/requirements.txt",
+      "source_file": "D:\\projects\\ai-programming-2026\\lab4\\lab4\\requirements.txt",
+      "sha256": "9404d51ae81773cbd5818b2cf0accfe13cd37af4ff2a05c946183865cec82869"
+    },
+    {
+      "path": "lab4/src/activation.cu",
+      "source_file": "D:\\projects\\ai-programming-2026\\lab4\\lab4\\src\\activation.cu",
+      "sha256": "168db83e482c6a39513f489a2d8d08d2b46b5b3e6a9836f294537c48124ca909"
+    },
+    {
+      "path": "lab4/src/activation.h",
+      "source_file": "D:\\projects\\ai-programming-2026\\lab4\\lab4\\src\\activation.h",
+      "sha256": "a6bb58d9852b8b0ba2e399545942cff6246845d5b0b705b4b580b177105eda6f"
+    },
+    {
+      "path": "lab4/src/lab3_kernels.cu",
+      "source_file": "D:\\projects\\ai-programming-2026\\lab4\\lab4\\src\\lab3_kernels.cu",
+      "sha256": "d6ab7448337ca7beb604fb80d7df33484372ab69291865f78e105242b08e0b3a"
+    },
+    {
+      "path": "lab4/src/lab3_kernels.h",
+      "source_file": "D:\\projects\\ai-programming-2026\\lab4\\lab4\\src\\lab3_kernels.h",
+      "sha256": "b40453f9d52cc6ed0798f5a8b6f4034cb707a4b3b7f9bf445980e7747f3cb2ec"
+    },
+    {
+      "path": "lab4/src/ops.cu",
+      "source_file": "D:\\projects\\ai-programming-2026\\lab4\\lab4\\src\\ops.cu",
+      "sha256": "6ddcf8018f2aa337152010e14981e404ed308b4ebca5fcfe494dfadb28296be6"
+    },
+    {
+      "path": "lab4/src/ops.h",
+      "source_file": "D:\\projects\\ai-programming-2026\\lab4\\lab4\\src\\ops.h",
+      "sha256": "bc66500dabb40dc536d4a29ab044f24b9ff0fffc4683f92e573c6a715edded4f"
+    },
+    {
+      "path": "lab4/src/pybind.cpp",
+      "source_file": "D:\\projects\\ai-programming-2026\\lab4\\lab4\\src\\pybind.cpp",
+      "sha256": "57eb7d23e429696ab39f7ee3e7e4d75f8dceabdd76a6940a58a432f34ff64411"
+    },
+    {
+      "path": "lab4/src/tensor.cpp",
+      "source_file": "D:\\projects\\ai-programming-2026\\lab4\\lab4\\src\\tensor.cpp",
+      "sha256": "54af2e0c6c1e2b51fad2afa96126b378396c49f9c135a3206eb17e5e9be60a20"
+    },
+    {
+      "path": "lab4/src/tensor.h",
+      "source_file": "D:\\projects\\ai-programming-2026\\lab4\\lab4\\src\\tensor.h",
+      "sha256": "4b2c5257c55df45c74bfc83c773d29201ef4ca95847851a9bb37d3d1d219ef28"
+    },
+    {
+      "path": "lab4/tests/test_mnist.py",
+      "source_file": "D:\\projects\\ai-programming-2026\\lab4\\lab4\\tests\\test_mnist.py",
+      "sha256": "88566846171be31e31e48e2d1770d9115ec265056195789d541394a4320c923e"
+    },
+    {
+      "path": "lab4/tests/test_ops.py",
+      "source_file": "D:\\projects\\ai-programming-2026\\lab4\\lab4\\tests\\test_ops.py",
+      "sha256": "d56a94544b6c0c47614bce2003304db47caaa86d3e7a21e0220a22de9e889c94"
+    },
+    {
+      "path": "lab4/tests/test_tensor.py",
+      "source_file": "D:\\projects\\ai-programming-2026\\lab4\\lab4\\tests\\test_tensor.py",
+      "sha256": "8d1b4ef6bb7ee261983bc169c44c787b1b187ed33f0508970d3478de8a887d12"
+    },
+    {
+      "path": "lab4/hw4.md",
+      "source_file": "D:\\projects\\ai-programming-2026\\lab4\\hw4.md",
+      "sha256": "9e561f19e333e7820273729c465f7e7afd203013b94aa5d7eaf7b38eb743855e"
     }
   ]
 }

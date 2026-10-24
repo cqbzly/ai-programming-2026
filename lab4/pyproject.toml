@@ -1,0 +1,16 @@
+[build-system]
+requires = ["scikit-build-core>=0.10", "pybind11>=2.13"]
+build-backend = "scikit_build_core.build"
+
+[project]
+name = "mytensor"
+version = "0.2.0"
+description = "Lab4 CPU/CUDA Tensor, seven neural network operators, and MNIST loader"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.23"]
+
+[tool.scikit-build]
+cmake.build-type = "Release"
+build-dir = "build/{wheel_tag}"
+wheel.packages = ["mytensor"]
+sdist.include = ["src/**", "mytensor/**", "CMakeLists.txt", "build.py", "requirements*.txt", "examples/**", "tests/**", "README.md", "report.md", "run_tests.py"]
