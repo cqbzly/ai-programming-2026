@@ -1,0 +1,65 @@
+{
+  "snapshot_date": "2026-10-24",
+  "files": [
+    {
+      "path": "lab1/lab1实验报告.docx",
+      "archive": "D:\\projects\\AI_Programming\\lab1\\lab1.zip",
+      "archive_entry": "lab1实验报告.docx",
+      "sha256": "2b7251ba8ede0ffa4e4bc7805ea7d20c858076668818a663a8c29c9671129b39"
+    },
+    {
+      "path": "lab1/LeNet.py",
+      "archive": "D:\\projects\\AI_Programming\\lab1\\lab1.zip",
+      "archive_entry": "LeNet.py",
+      "sha256": "c94763714706fd6f9b629f484ca0b4ec9de978fe70f4b63c75ef19b894d4882e"
+    },
+    {
+      "path": "lab1/README.md",
+      "archive": "D:\\projects\\AI_Programming\\lab1\\lab1.zip",
+      "archive_entry": "README.md",
+      "sha256": "941ef39a347e967f94c00caae4426adf4ab99068684036f54a8162a2e138a65e"
+    },
+    {
+      "path": "lab2/code.cu",
+      "archive": "D:\\projects\\AI_Programming\\lab2\\lab2.zip",
+      "archive_entry": "code.cu",
+      "sha256": "512e362db40becfb83f1876fdf4a821533ad8ee175654ba4dd4c03f0a16d60d8"
+    },
+    {
+      "path": "lab2/code_test.cu",
+      "archive": "D:\\projects\\AI_Programming\\lab2\\lab2.zip",
+      "archive_entry": "code_test.cu",
+      "sha256": "9a7f6d433cfa2dc8dbef771b2286fcec86a455c83cb9a838c8890b9c5828e2f7"
+    },
+    {
+      "path": "lab2/lab2_report.docx",
+      "archive": "D:\\projects\\AI_Programming\\lab2\\lab2.zip",
+      "archive_entry": "lab2_report.docx",
+      "sha256": "797459c8a2385abae63289463a376068cfaf9af1a49635773fc27f6eae5a3a31"
+    },
+    {
+      "path": "lab3/code.cu",
+      "archive": "D:\\projects\\AI_Programming\\lab3\\lab3.zip",
+      "archive_entry": "code.cu",
+      "sha256": "59da833a8171eff07ae6f394c8369463a42dd3ed03e0aed3fb6052861a942f8c"
+    },
+    {
+      "path": "lab3/cuda_benchmark.cu",
+      "archive": "D:\\projects\\AI_Programming\\lab3\\lab3.zip",
+      "archive_entry": "cuda_benchmark.cu",
+      "sha256": "0c53d0c4bf65d1524df55b5c8800bcdccda37a97150d165f146c16518ff0610c"
+    },
+    {
+      "path": "lab3/cuda_test.cu",
+      "archive": "D:\\projects\\AI_Programming\\lab3\\lab3.zip",
+      "archive_entry": "cuda_test.cu",
+      "sha256": "7ac4dc67387e9af57591a88cef88407543d75f7e0ba7f094c91aee9b40544d72"
+    },
+    {
+      "path": "lab3/HW3实验报告.pdf",
+      "archive": "D:\\projects\\AI_Programming\\lab3\\lab3.zip",
+      "archive_entry": "HW3实验报告.pdf",
+      "sha256": "2618c4ceb64457bc4b720b8bbb67f32161d7d7e78dd7323661aab01f062d8420"
+    }
+  ]
+}
